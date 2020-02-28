@@ -16,7 +16,6 @@ RET = 0b00010001
 
 SP = 7  # Stack pointer is Register 7
 
-
 class CPU:
     """Main CPU class."""
 
