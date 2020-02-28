@@ -60,6 +60,10 @@ but you'll have to implement those three above instructions first!
 ## Step 0: IMPORTANT: inventory what is here!
 
 * Make a list of files here.
+-- cpu.py - Contains the code for the CPU Class.
+-- ls8.py - Runs the Emulator.
+-- Examples Folder - Has lists of example instructions for the cpu.
+-- ams Folder - Contains .asm files which are scripts in Assembly Language.
 * Write a short 3-10-word description of what each file does.
 * Note what has been implemented, and what hasn't.
 * Read this whole file.
